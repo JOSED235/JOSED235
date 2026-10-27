@@ -16,6 +16,8 @@ Presencial o remoto.
   un grafo vial dinámico, AVL propio y 52 pruebas JUnit.
 - **[AgroIoT](https://github.com/JOSED235/ProyectoFinalSyC1)**: MQTT → Node-RED → InfluxDB, con un modelo que
   aprende en línea.
+- **[SITM-MIO](https://github.com/JOSED235/SITM-MIOLNJ)**: monitoreo distribuido del MIO de Cali sobre ZeroC Ice,
+  con la velocidad por ruta calculada en versión secuencial, con hilos y con workers.
 
 Todo, con lo que falló y lo que aprendí: **[josed235.github.io](https://josed235.github.io)**
 
