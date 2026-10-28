@@ -1,7 +1,7 @@
 ### Hola, soy Jose David
 
 Estudio Ingeniería de Sistemas e Ingeniería Telemática en la Universidad Icesi (Cali, Colombia).
-Construyo software de punta a punta: desde el firmware de un ESP32 y la telemetría MQTT
+Construyo software de punta a punta: desde el firmware de un microcontrolador como un ESP32 y la telemetría MQTT
 hasta la API, la base de datos y la aplicación web.
 
 **Disponible** para medio tiempo o por horas durante el semestre, y tiempo completo en vacaciones.
